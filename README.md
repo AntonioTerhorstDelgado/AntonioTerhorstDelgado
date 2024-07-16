@@ -11,7 +11,7 @@
  ### Hard Skills
  <div style = "display:inline_block;">
 <img src="https://github.com/user-attachments/assets/10ddc6af-c61d-41fe-8a14-608414f04dd6">
-<img src="https://github.com/user-attachments/assets/aa4a131b-d785-450f-8882-75ae8a8a6639" width = "30">
+<img src="https://github.com/user-attachments/assets/aa4a131b-d785-450f-8882-75ae8a8a6639">
 <img src="https://github.com/user-attachments/assets/10ddc6af-c61d-41fe-8a14-608414f04dd6">
 <img src="https://github.com/user-attachments/assets/10ddc6af-c61d-41fe-8a14-608414f04dd6">
 
