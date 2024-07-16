@@ -16,6 +16,7 @@
 <img src="https://github.com/user-attachments/assets/10ddc6af-c61d-41fe-8a14-608414f04dd6">
  </div>
 
+Obs: Ainda não está pronto.
  
 <!--
 - 👯 I’m looking to collaborate on ...
