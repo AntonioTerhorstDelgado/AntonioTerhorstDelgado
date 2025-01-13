@@ -6,7 +6,7 @@
  ### Soft Skills
  
    Habilidade de expressar ideias de forma clara e concisa, tanto verbalmente quanto escrito.
-     Capacidade de ouvir atentamnte os outros e entender suas perpectivas.
+    Capacidade de ouvir atentamnte os outros, entender suas perpectivas e estou sempre pronto para aprender algo novo.
 
  ### Hard Skills
  <div style = "display:inline_block;">
